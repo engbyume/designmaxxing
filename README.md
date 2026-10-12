@@ -9,5 +9,5 @@ Load SKILL.md before matching specialist design skills. Read only the references
 ## Package
 
 - SKILL.md contains the skill trigger and design workflow.
-- references/ contains focused design guidance, including design-review-checklist.md for substantial design reviews.
+- references/ contains focused design guidance, including design-review-checklist.md, design-asset-sources.md, and stack-preferences.md for source and stack guidance.
 - THIRD_PARTY_NOTICES.md records the MIT notice for the Apple Design distillation.
